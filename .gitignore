@@ -2,3 +2,5 @@
 *.pyc
 .ipynb_checkpoints
 dog_images/*
+*.zip
+bottleneck_features/
